@@ -1,4 +1,4 @@
-# Krishi Connect
+# Krishi Mitra - Labour Management System
 
 A mobile application connecting farmers with agricultural workers.
 
